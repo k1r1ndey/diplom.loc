@@ -10,9 +10,7 @@
  */
 get_header();
 ?>
-
-<div class="test-class">
-    <div class="row">
+    <div class="test-class row">
         <div class="col-sm">
             Одна из трёх колонок
         </div>
@@ -23,6 +21,4 @@ get_header();
             Одна из трёх колонок
         </div>
     </div>
-</div>
-
 <?php get_footer()?>
