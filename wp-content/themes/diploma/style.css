@@ -985,5 +985,14 @@ object {
 }
 
 .test-class{
-    background-color: #0A246A;
+    border: 1px solid red;
+}
+.test-class2{
+    border:     1px solid red;
+    margin-top: 180px;
+    margin-bottom: 180px;
+    margin-left: 600px;
+    align: center;
+
+
 }
