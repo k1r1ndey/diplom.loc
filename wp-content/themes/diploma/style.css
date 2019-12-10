@@ -983,7 +983,31 @@ object {
 .gallery-caption {
 	display: block;
 }
-
+/*
+ *======================================================================================================================
+ Тут пойдут наши class,
+ *
+ */
 .test-class{
     background-color: #0A246A;
+}
+/*
+ *======================================================================================================================
+ Тут пойдут наши id,
+ *
+ */
+#image{
+	background-color: #FFF4DF;
+	width: 100%;
+	height: 600px;
+}
+#question{
+	background-color: snow;
+	width: 100%;
+	height: 200px;
+}
+#become_a_creator{
+	background-color: #FFF4DF;
+	width: 100%;
+	height: 600px;
 }

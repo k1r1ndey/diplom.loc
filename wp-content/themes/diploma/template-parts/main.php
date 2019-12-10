@@ -10,15 +10,28 @@
  */
 get_header();
 ?>
-    <div class="test-class row">
-        <div class="col-sm">
-            Одна из трёх колонок
-        </div>
-        <div class="col-sm">
-            Одна из трёх колонок
-        </div>
-        <div class="col-sm">
-            Одна из трёх колонок
-        </div>
+    <div id = "image">
+        <div></div>
     </div>
+
+    <div id = "question">
+        <div></div>
+    </div>
+
+    <div id = "become_a_creator">
+        <div></div>
+    </div>
+
+    <div id = "labor market">
+        <div></div>
+    </div>
+
+    <div id = "search for yourself">
+        <div></div>
+    </div>
+
+    <div id = "our mentors">
+        <div></div>
+    </div>
+
 <?php get_footer()?>
