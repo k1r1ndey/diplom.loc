@@ -3,10 +3,6 @@
     Template Name: Главная страничка
  *
  *
- * Created by PhpStorm.
- * User: PC
- * Date: 03.12.2019
- * Time: 21:50
  */
 get_header();
 ?>
@@ -22,15 +18,15 @@ get_header();
         <div></div>
     </div>
 
-    <div id = "labor market">
+    <div id = "labor_market">
         <div></div>
     </div>
 
-    <div id = "search for yourself">
+    <div id = "search_for_yourself">
         <div></div>
     </div>
 
-    <div id = "our mentors">
+    <div id = "our_mentors">
         <div></div>
     </div>
 
